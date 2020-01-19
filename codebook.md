@@ -1,6 +1,6 @@
-#Code Book
-Pre Analysis
-This script will check if the data file is present in your working directory. (If not, will download and unzip the file)
+Code Book
+	Pre Analysis
+	This script will check if the data file is present in your working directory. (If not, will download and unzip the file)
 
 1. Read data and Merge
 	- subject_test : subject IDs for test
